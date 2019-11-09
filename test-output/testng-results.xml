@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90661" started-at="2019-11-09T08:23:40Z" finished-at="2019-11-09T08:25:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90661" started-at="2019-11-09T08:23:40Z" finished-at="2019-11-09T08:25:11Z">
+      <class name="ticket.Booking">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ticket.Booking@7193666c]" name="setup" is-config="true" duration-ms="25561" started-at="2019-11-09T13:53:40Z" finished-at="2019-11-09T13:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="book()[pri:0, instance:ticket.Booking@7193666c]" name="book" duration-ms="64815" started-at="2019-11-09T13:54:06Z" finished-at="2019-11-09T13:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book -->
+        <test-method status="PASS" signature="done()[pri:0, instance:ticket.Booking@7193666c]" name="done" is-config="true" duration-ms="1" started-at="2019-11-09T13:55:11Z" finished-at="2019-11-09T13:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- done -->
+      </class> <!-- ticket.Booking -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
